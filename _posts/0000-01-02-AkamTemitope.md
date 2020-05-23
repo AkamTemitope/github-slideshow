@@ -2,4 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Will be commiting this file
+Planning to make some changes
+
+
+Great
